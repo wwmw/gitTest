@@ -21,3 +21,5 @@ public class July16_Scanner {
 		scan.close();
 	}
 }
+
+// non-fast-forward Àç½ÇÇà
