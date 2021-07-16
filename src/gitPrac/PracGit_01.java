@@ -5,7 +5,8 @@ public class PracGit_01 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("output test");
-		System.out.println("test from surface");
+		System.out.println("test from surface 1");
+		System.out.println("test from surface 2");
 
 	}
 
